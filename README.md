@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arodmesa
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning deep and machine learning
+- 👀 I’m interested in artificial intelligence and Web development
+- 🌱 I’m currently learning deep, machine learning and Frontend development
 
 
 <!---
